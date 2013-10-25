@@ -1,0 +1,8 @@
+mkdir 
+cd 
+init 
+
+git status
+git add file.html
+git st
+git rm --
